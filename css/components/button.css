@@ -1,9 +1,19 @@
 .containerhead-button {
   padding: 15px 25px;
-  background-color: lightgreen;
+  background-color: white;
   border-radius: 50px;
-  color: azure;
   font-weight: bold;
   margin-top: 10px;
-  width: 100px;
+  width: 85px;
+  font-family: 'Castoro Titling', cursive;
+  border: #8b0000 solid 5px;
+}
+
+.containerhead-button:hover{
+  background-color:#8b0000;
+  transition: 1s;
+}
+
+.containerhead-button a{
+  color: black;
 }

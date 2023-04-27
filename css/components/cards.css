@@ -6,6 +6,7 @@
 
 .containerfoot h2{
   text-align: center;
+  color: #8b0000;
 }
 
 /* #horizontal-list {
@@ -23,11 +24,14 @@ background-color: white;
 /* } */
 
 .card{
+  font-family: 'Castoro Titling', cursive;
   margin: 0 auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   /* display: table; */
   width: 300px;
   text-align: center;
+  border: solid 5px #003300;
+  border-radius: 5%;
 }
 
 .card img{
@@ -40,4 +44,8 @@ background-color: white;
   display: flex;
 justify-content: center;
 padding: 10px;
+}
+
+.card:hover{
+  border: #8b0000 solid 5px;
 }

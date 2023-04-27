@@ -20,8 +20,9 @@ text-decoration: none;
 }
 
 .footer{
-  background-color: gray;
+  background-color: #8b0000;
 text-align: center;
 color: aliceblue;
 padding: 10px;
+font-family: 'Castoro Titling', cursive;
 }

@@ -14,9 +14,11 @@
 }
 
 .container h1{
+  font-family: 'Castoro Titling', cursive;
   color: azure;
   }
 
 .container p {
-color: gray;
+  font-family: 'Castoro Titling', cursive;
+color: azure;
 }
