@@ -1,0 +1,27 @@
+.footer ul li img{
+  width: 30px;
+}
+
+.footer ul li{
+  background-color: white;
+display: inline;
+padding: 10px;
+text-decoration: none;
+}
+
+.footer ul{
+  min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+  text-align: left;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footer{
+  background-color: gray;
+text-align: center;
+color: aliceblue;
+padding: 10px;
+}

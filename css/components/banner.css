@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  margin-bottom: 32px;
+  background-position: center;
+}
+
+.container {
+  border-radius: 4px;
+  margin: 0 auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container h1{
+  color: azure;
+  }
+
+.container p {
+color: gray;
+}
